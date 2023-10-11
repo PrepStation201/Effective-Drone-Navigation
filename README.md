@@ -3,3 +3,4 @@ A  reinforcement Learning model for effective path and trajectory planning to fi
 
 1. Tapan Mahata
 2. Dev Wankhede
+3. Abhinit Singh
