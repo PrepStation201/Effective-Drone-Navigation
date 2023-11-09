@@ -7,6 +7,7 @@ This is a project about deep reinforcement learning autonomous obstacle avoidanc
 
 
 **Requirements:**
+
 numpy
 
 torch
