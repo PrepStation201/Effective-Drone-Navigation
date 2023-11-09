@@ -6,7 +6,7 @@ This is a project about deep reinforcement learning autonomous obstacle avoidanc
 
 
 
-**Requirements:**
+##Requirements:
 
 numpy
 
@@ -18,7 +18,7 @@ seaborn==0.11.1
 
 
 
-**How to begin trainning:**
+##How to begin trainning:
 
 For example, you want to train the agent in dynamic environment with TD3, what you need to do is just running the 
 main.py, && test.py,
@@ -30,7 +30,7 @@ If you want to test the model in the environment with 4 obstacles, you just need
 
 
 
-**Files to illustrate:**
+##Files to illustrate:
 
 calGs.m: calculate the index Gs which shows the performance of the route.
 
@@ -51,7 +51,7 @@ Multi_obstacle_environment_test.py: this file test the dynamic model in the envi
 data_csv: this file save some data such as the trace of UAV and the reward in trainning.
 
 
-**==AI ARCHITECT==**
+#==AI ARCHITECT==
 1. Tapan Mahata
 2. Dev Wankhede
 3. Abhinit Singh
