@@ -88,7 +88,7 @@ if __name__ == "__main__":
         # Set your own path of local PC to load_dir
         painter.addData(rewardList[index], 'IIFDS-DDPG')
         painter.saveData('/home/tapancs/Desktop/Effective-Drone-Navigation/UAV_Obstacle_Avoiding_DRL/Dynamic_obstacle_avoidance/IIFDS-DDPG-random_start/data_csv/figure_data.csv'.format(index))
-        # Set your own path of local PC to load_dir
+        # Set your own path of local PC 
         painter.drawFigure()
 
 
