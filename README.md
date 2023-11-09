@@ -4,6 +4,8 @@ Create a python environment in your local desktop to run the file
 A  reinforcement Learning model for effective path and trajectory planning to find suitable camera views for optimal object detection.
 This is a project about deep reinforcement learning autonomous obstacle avoidance algorithm for UAV. The whole project includes obstacle avoidance in static environment and obstacle avoidance in dynamic environment. In the static environment, Multi-Agent Reinforcement Learning and artificial potential field algorithm are combined. In the dynamic environment, the project adopts the combination of disturbed flow field algorithm and single agent reinforcement learning algorithm.
 
+
+
 **Requirements**
 numpy
 
@@ -14,6 +16,7 @@ matplotlib
 seaborn==0.11.1
 
 **How to begin trainning**
+
 For example, you want to train the agent in dynamic environment with TD3, what you need to do is just running the 
 main.py, && test.py,
 
@@ -22,7 +25,10 @@ finally open matlab and run the test.m to draw.
 If you want to test the model in the environment with 4 obstacles, you just need to run : Multi_obstacle_environment_test.py.
 
 
+
+
 **Files to illustrate**
+
 calGs.m: calculate the index Gs which shows the performance of the route.
 
 calLs.m: calculate the index Ls which shows the performance of the route.
