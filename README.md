@@ -6,7 +6,7 @@ This is a project about deep reinforcement learning autonomous obstacle avoidanc
 
 
 
-**Requirements**
+**Requirements:**
 numpy
 
 torch
@@ -15,7 +15,9 @@ matplotlib
 
 seaborn==0.11.1
 
-**How to begin trainning**
+
+
+**How to begin trainning:**
 
 For example, you want to train the agent in dynamic environment with TD3, what you need to do is just running the 
 main.py, && test.py,
@@ -27,7 +29,7 @@ If you want to test the model in the environment with 4 obstacles, you just need
 
 
 
-**Files to illustrate**
+**Files to illustrate:**
 
 calGs.m: calculate the index Gs which shows the performance of the route.
 
