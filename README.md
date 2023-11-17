@@ -51,7 +51,7 @@ Multi_obstacle_environment_test.py: this file test the dynamic model in the envi
 data_csv: this file save some data such as the trace of UAV and the reward in trainning.
 
 
-# ===AI ARCHITECT===
+# ===AI ARCHITECTS===
 1. Tapan Mahata
 2. Dev Wankhede
 3. Akshat Dubey
