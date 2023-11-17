@@ -54,7 +54,7 @@ data_csv: this file save some data such as the trace of UAV and the reward in tr
 # ===AI ARCHITECT===
 1. Tapan Mahata
 2. Dev Wankhede
-3. Abhinit Singh
-4. Akshat Dubey
+3. Akshat Dubey
+4. Abhinit Singh
 5. Pradoom Varma 
 
